@@ -4,7 +4,8 @@ An interactive exam system to deliver multiple-choice tests and auto-score resul
 
 ---
 ## 🌍 Live Demo
-🔗 [Visit the Live Website]((https://github.com/Stainless-aka/Computer-Based-Test-CBT-System)
+🔗 [Visit the Live Website](https://Stainless-aka/github.io/Computer-Based-Test-CBT-System)
+---
 ## 🧠 Tech Stack
 HTML | CSS | JavaScript | PHP (optional) | Bootstrap
 
